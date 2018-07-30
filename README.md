@@ -1,5 +1,4 @@
-# CAtest
-test for candidate CAs for CUSP ADS and PUI classes.
+# Test for candidate CAs for CUSP ADS and PUI classes.
 
 
 Instructions: each piece of instruction is contained in a cell in the notebook PUI ADS CA test.ipynb. 
